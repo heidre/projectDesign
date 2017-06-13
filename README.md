@@ -1,6 +1,7 @@
 # ExposéMoi: Uncovering the Politics of Today's Most Passive News Story (or Is It Just Bad Writing?)
 
 Heidi Rennert and Rachelle Ann Tan
+
 Link: https://github.com/heidre/projectDesign/
 
 ## What is ExposéMoi?
@@ -23,13 +24,15 @@ for use, installation, configuration, running, repurposing; also, how to submit 
 
 what else your project needs to work (e.g., Python libraries); you could also mention on what machines your project was tested (software, OS, versions, browsers) 
 
-## Example
+## ExposéMoi in Action!
 
-a screen grab, description, or snippet demonstrating your project in action (how it's used, e.g.) 
+We ran our plugin on Wikipedia's "English Passive Voice" article.
+
+![ExposéMoi in Action!](https://github.com/heidre/projectDesign/documentation/ExposeMoi.png)
 
 ## Audience 
 
-remarks about accessibility and intended audience, e.g. 
+While journalists, news readers, and the general public are our primary audience, our project could also be a pedagogical tool for use in teaching composition. Teachers could use this plugin as a tool to teach elements of clear and effective writing, rhetorical analysis, paraphrasing, summarizing, and revision. 
 
 ## Process Documentation 
 
@@ -70,4 +73,5 @@ if you'd like to include one for your audience
 ## Change Log 
 
 Version 1.0 - Added the highlight passive construction feature.
+
 Version 1.1 - Added the count passive construction feature.
