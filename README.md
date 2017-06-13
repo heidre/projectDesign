@@ -1,10 +1,15 @@
-# Project Title 
+# ExposéMoi: Uncovering the Politics of Today's Most Passive News Story (or Is It Just Bad Writing?)
 
-you may also wish to add your name and any related info; if your project has a URL, then you could include it 
+Heidi Rennert and Rachelle Ann Tan
+Link: https://github.com/heidre/projectDesign/
 
-## Project Description 
+## What is ExposéMoi?
 
-consider relationship between digital studies and literary/cultural studies as well as how you'd describe your project for a broad audience; this may also be something like a statement by the author/editor/designer/editor, with a pithy rationale for what you're doing 
+ExposéMoi is a web browser plug-in that (1) scans through journal and news articles and websites, (2) identifies the uses of the passive voice, and (3) assesses how the passive voice correlates to a journal’s political alignment. The plug-in (4) produces a score of the frequency of passive voice at the sentence level. 
+
+## Why use ExposéMoi?
+
+Recent media and news articles tend to use the passive voice to avoid blame or allocate responsibility, hide the agent, tone down intensity, complicate readability, and add verbiage and jargon to mask or distort the meaning of the text. Ultimately, the use of the passive voice is a technique for wilfully concealing the truth.
 
 ## Files and Specifications 
 
@@ -64,4 +69,5 @@ if you'd like to include one for your audience
 
 ## Change Log 
 
-significant changes to the project (e.g., Version 1.0, 1.1, 1.2, 2.0) 
+Version 1.0 - Added the highlight passive construction feature.
+Version 1.1 - Added the count passive construction feature.
