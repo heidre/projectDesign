@@ -65,7 +65,12 @@ if you get one (perhaps relevant down the line)
 
 ## Acknowledgment
 
-opportunity to acknowledge collaborators, territory, influences, supervisors/mentors, funding sources, labour, source code  
+Acknowledgement to:
+- Chrome Developers for script resources on building chrome extensions
+- TwitterDev for script on embedding tweets
+
+Special Thanks to:
+- Norbert Rennert
 
 ## Jokes and Humour 
 
