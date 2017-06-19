@@ -3,3 +3,5 @@ Notes for specific audiences
 * Instructions for use and reuse 
 * Remarks about licensing 
 * Nods to peple who influenced the thing
+<br><br>
+* Screen readers?
