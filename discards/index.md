@@ -25,8 +25,7 @@ The noun phrase "his car" separates "had" and "cleaned," which our code is not a
 
 <b> Sentences and Scoring </b>
 <br><br>
-Currently, our rating system calculates the instances of passive voice on a sentence level. Seven instances of the passive voice within seven sentences calculates as a text having a "100% Passified" rating, ten instances in seven sentences calculates as "125% Passified", etc.<br>
-We are still working on creating a regular expression that accurately identifies sentences. The biggest difficulty is including exceptions in our variable, such as "Mr." or "i.e.". Other challenges have included avoiding urls in a webpage. <br><br>
+Currently, our rating system calculates the instances of passive voice on a sentence level. Seven instances of the passive voice within seven sentences calculates as a text having a "100% Passified" rating, ten instances in seven sentences calculates as "125% Passified", etc.We are still working on creating a regular expression that accurately identifies sentences. The biggest difficulty is including exceptions in our variable, such as "Mr." or "i.e.". Other challenges have included avoiding urls in a webpage. <br><br>
 
 <b>Tweeting</b><br>
 
