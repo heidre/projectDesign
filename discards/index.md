@@ -29,5 +29,5 @@ Currently, our rating system calculates the instances of passive voice on a sent
 
 <b>Tweeting</b><br>
 
-Because our code operates within a browser pop-up window, TwitterDev's official code for embedding a share-to-twitter function in a webpage does not entirely translate to our extension. Consequently, we have had to adapt the code for our extension, although we are still working on sharing and embedding urls in a pregenerated tweet.
+Because our code operates within a browser pop-up window, TwitterDev's official code for embedding a share-to-twitter function in a webpage does not entirely translate to our extension. Consequently, we have had to adapt the code for our extension.
 
