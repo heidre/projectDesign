@@ -1,0 +1,83 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "passive.html".
+ -->
+<html>
+  <head>
+   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>Find Passives Popup</title>
+    <style type ="text/css">
+      body {
+        font: "Impact";
+        font-size: 75%;
+		background-color: white;
+      }
+	  button {
+		background-color: black;
+		border: none;
+		color: white;
+		text-align: center;
+		text-decoration: none;
+		font-size : 100%;
+		class: round;
+		border-radius: 4px;
+		padding: 10px;
+		} 
+		
+		#share {
+		background-color: #008080;
+		color: white;
+		border-radius: 2px;
+		padding: 2 px;
+	}
+	
+		#twitter-wjs {
+		background-color: white;
+		color: black;
+	}
+	a:link {
+    background-color: #9CCFC3; <!--#A6D9CF;-->
+    color: white;
+    padding: 4px;
+    text-decoration: none;
+    display: inline-block;
+	border-radius: 4px
+}
+	a:visited {
+	color: white;
+	}
+	
+	a:hover {
+	background-color: #eea29a;
+}
+	
+	</style>
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: https://developer.chrome.com/extensions/contentSecurityPolicy
+     -->
+    <script src="passive2.js"></script>
+	<!--<script src="score.js"></script> -->
+  </head>
+  <body>
+  <h2><i>Expos&egraveMoi</i></h2>
+  	<button id="checkPage">ExposèMoi</button><br><br>
+	<!--<button id="scorePage">Score Page</button><br><br>-->
+	<b>Total:</b><span id="pageResults">0</span><br>
+	<b>Score: </b><span id="scoreResults">0</span><br>
+<!--TWITTER-->
+	<button id="twitter-wjs"><b>
+	<a id="link1"
+	class="twitter-share-button"
+	href="" 
+	data-size="large"
+	target = "_blank"  data-show-count="false">
+	Tweet Score
+	</a>
+  </body>
+</html>
+
