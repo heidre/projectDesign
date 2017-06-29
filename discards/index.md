@@ -30,4 +30,7 @@ Currently, our rating system calculates the instances of passive voice on a sent
 <b>Tweeting</b><br>
 
 Because our code operates within a browser pop-up window, TwitterDev's official code for embedding a share-to-twitter function in a webpage does not entirely translate to our extension. Consequently, we have had to adapt the code for our extension.
+<br><br>
+<b>Simplify, Simplify, Simplify</b><br><br>
 
+We consistently found ourselves needing to simplify our project and code. One significant change was reducing the number of button options in our pop-up browser. Initially, we had individual buttons for highlighting the passive voice and scoring the page. We combined both functions into one button, so that the extension both highlights and scores together. While part of the impetus to this decision was simplifying the code, we also wanted to make the scoring feature more explicit. By combining the highlighting and scoring feature, users are now confronted automatically with explicit data that they must respond to. This explicitness intentionally counteracts the forms of passivitiy our extension is exposing.
