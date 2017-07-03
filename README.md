@@ -36,7 +36,7 @@ A few notes:
 
 ## Dependencies 
 
-what else your project needs to work (e.g., Python libraries); you could also mention on what machines your project was tested (software, OS, versions, browsers) 
+The current version of ExposéMoi operates as a chrome extension exclusively. 
 
 
 ## ExposéMoi in Action!
