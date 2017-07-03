@@ -15,14 +15,20 @@ ExposéMoi is a web browser plug-in that (1) scans through journal and news arti
 Recent media and news articles tend to use the passive voice to avoid blame or allocate responsibility, hide the agent, tone down intensity, complicate readability, and add verbiage and jargon to mask or distort the meaning of the text. Ultimately, the use of the passive voice is a technique for wilfully concealing the truth.
 
 
-## Audience 
+## Who is ExposéMoi for?
 
 While journalists, news readers, and the general public are our primary audience, our project could also be a pedagogical tool for use in teaching composition. Teachers could use this plugin as a tool to teach elements of clear and effective writing, rhetorical analysis, paraphrasing, summarizing, and revision.
 
 
 ## Files and Specifications 
 
-All relevant files for use are stored under the file name "extension.zip". 
+All relevant files for use are stored under the file name "extension.zip":
+- icon.png
+- manifest.json
+- passive2.js
+- popup.html
+- score.js
+- styles.css
 
 
 ## Instructions 
@@ -51,11 +57,6 @@ Tested on a Windows 10 Home operating system using the Google Chrome web browser
 We ran our plugin on Wikipedia's "English Passive Voice" article.
 
 ![ExposéMoi in Action!](https://github.com/heidre/projectDesign/documentation/ExposeMoi.png)
-
-
-## History 
-
-any remarks about the project's history or the history of the materials/files, including matters of provenance 
 
 
 ## Disclaimer
