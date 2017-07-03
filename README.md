@@ -22,11 +22,11 @@ any comments about the code, data, metadata, markup, digitized materials; also a
 
 ## Instructions 
 
-1. Install extension through chrome
+1. Install the extension through Chrome.
 2. Open the extension by clicking the pop-up on the top right-hand corner of the browser toolbar. 
-3. Click "ExposeMoi" and wait for the page to load results. This will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total".
-4. The extension will automatically ouput a percentage for passive occurances per sencentence in the article. 7 instances within 7 sentences will produce a %100 rating, and so forth.
-5. Finally, click "Tweet Score." This button will redirect you to a separate tab with a pregenerated tweet that lists the score and url of the page you have just rated. 
+3. Click the "ExposeMoi" button and wait for the page to load results. This button will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total".
+4. The extension will automatically output a percentage for passive occurrences per sencentence in the article. 7 instances within 7 sentences will produce a 100% rating, and so forth.
+5. Finally, click "Tweet Score." This button will redirect you to a separate tab with a pre-generated tweet that lists the score and url of the page you have just rated. 
 
 A few notes:
 1. The extension will only work if the steps are followed in this given order.
