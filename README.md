@@ -17,7 +17,7 @@ Recent media and news articles tend to use the passive voice to avoid blame or a
 
 ## Files and Specifications 
 
-any comments about the code, data, metadata, markup, digitized materials; also a file manifest/recipe and list of relevant technical details 
+All relevant files for the extension are stored under the file name "extension.zip". 
 
 
 ## Instructions 
@@ -36,7 +36,7 @@ A few notes:
 
 ## Dependencies 
 
-The current version of ExposéMoi operates as a chrome extension exclusively. 
+The current version of ExposéMoi operates as a chrome extension exclusively. Extending it to other platforms like Explorer and Firefox is in progress. 
 
 
 ## ExposéMoi in Action!
@@ -83,7 +83,7 @@ Special Thanks to:
 
 ## Jokes and Humour 
 
-remarks about what didn't work ("known bugs"), what's an experiment, possible/actual surprises, what could be improved
+- ExposéMoi's function for counting sentences still requires fine-tuning. Using ExposéMoi on some webpages and Wikipedia articles may interfere with the page's script, although it will not affect readability. 
 
 
 ## Bibliography 
