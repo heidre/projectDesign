@@ -17,7 +17,7 @@ Recent media and news articles tend to use the passive voice to avoid blame or a
 
 ## Files and Specifications 
 
-All relevant files for the extension are stored under the file name "extension.zip". 
+All relevant files for use are stored under the file name "extension.zip". 
 
 
 ## Instructions 
@@ -100,7 +100,20 @@ Further Reading:
 
 ## FAQ
 
-if you'd like to include one for your audience 
+<b>What is the passive voice?</b>
+<br><br>
+The passive voice is a grammatical construction that makes the object of a sentence function as its subject. The passive voice usually requires an auxillary verb and its past participle (i.e. is gotten). In the passive construction, the subject of a sentence's verb or action is not always apparent. <br><br>
+<b>Why does the extension mess up the page's code?</b>
+<br><br>
+The extension's script is still not entirely compatible with all webpages, although we're working on debugging it.
+<br><br>
+<b>The extension missed some words!</b>
+<br><br>
+ExposéMoi does not guarantee 100% accuracy in its results. The extension's algorithim uses the most common pattern of the passive construction (object + auxillary verb + past participle). As yet, this is the best algorithim for identifying most cases. The goal of ExposéMoi is to promote critical and active readers; the extension should be a starting point for more critical engagement and larger discussions.
+<br><br>
+<b>Why can't ExposéMoi do ___?</b>
+<br><br>
+We designed ExposéMoi to be architecturally and functionally minimalist. This means that ....
 
 
 ## Change Log 
