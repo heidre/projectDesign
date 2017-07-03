@@ -15,6 +15,11 @@ ExposéMoi is a web browser plug-in that (1) scans through journal and news arti
 Recent media and news articles tend to use the passive voice to avoid blame or allocate responsibility, hide the agent, tone down intensity, complicate readability, and add verbiage and jargon to mask or distort the meaning of the text. Ultimately, the use of the passive voice is a technique for wilfully concealing the truth.
 
 
+## Audience 
+
+While journalists, news readers, and the general public are our primary audience, our project could also be a pedagogical tool for use in teaching composition. Teachers could use this plugin as a tool to teach elements of clear and effective writing, rhetorical analysis, paraphrasing, summarizing, and revision.
+
+
 ## Files and Specifications 
 
 All relevant files for use are stored under the file name "extension.zip". 
@@ -22,38 +27,30 @@ All relevant files for use are stored under the file name "extension.zip".
 
 ## Instructions 
 
-1. Install the extension through Chrome.
+1. Install the ExposéMoi extension through Google Chrome.
 2. Open the extension by clicking the pop-up on the top right-hand corner of the browser toolbar. 
-3. Click the "ExposeMoi" button and wait for the page to load results. This button will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total".
-4. The extension will automatically output a percentage for passive occurrences per sencentence in the article. 7 instances within 7 sentences will produce a 100% rating, and so forth.
-5. Finally, click "Tweet Score." This button will redirect you to a separate tab with a pre-generated tweet that lists the score and url of the page you have just rated. 
+3. Click the "ExposéMoi" button and wait for the page to load results. This button will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total."
+4. The extension will automatically output a percentage for passive occurrences per sencentence in the article. For example, seven instances within seven sentences will produce a 100% rating, and so forth.
+5. Finally, click "Tweet Score." This button will redirect you to a separate tab with a pre-generated tweet that lists the score and the URL of the page you have just rated. 
 
 A few notes:
 1. The extension will only work if the steps are followed in this given order.
-2. As there is no "reset" button, the page must be refreshed in order to begin again. 
-3. If the pop-up is closed before completing all the steps, re-opening it and continuing on to the next step will not work. You must refresh the page and begin from the first step again. 
+2. As there is no "Reset" button, the page must be refreshed in order to begin again. 
+3. If the pop-up is closed before completing all the steps, re-opening it and continuing on to the next step will not work. You must refresh the page and begin from the first step again.
 
 
 ## Dependencies 
 
-The current version of ExposéMoi operates as a chrome extension exclusively. Extending it to other platforms like Explorer and Firefox is in progress. 
+The current version of ExposéMoi operates as a Google Chrome extension exclusively. Extending it to other platforms like Explorer and Firefox is being planned.
+
+Tested on a Windows 10 Home operating system using the Google Chrome web browser.
 
 
-## ExposéMoi in Action!
+## Process Documentation: ExposéMoi in Action!
 
 We ran our plugin on Wikipedia's "English Passive Voice" article.
 
 ![ExposéMoi in Action!](https://github.com/heidre/projectDesign/documentation/ExposeMoi.png)
-
-
-## Audience 
-
-While journalists, news readers, and the general public are our primary audience, our project could also be a pedagogical tool for use in teaching composition. Teachers could use this plugin as a tool to teach elements of clear and effective writing, rhetorical analysis, paraphrasing, summarizing, and revision. 
-
-
-## Process Documentation 
-
-any remarks about process documentation (recordings, notes, screen grabs, bug reports, feature requests) you've included 
 
 
 ## History 
@@ -83,7 +80,7 @@ Special Thanks to:
 
 ## Jokes and Humour 
 
-- ExposéMoi's function for counting sentences still requires fine-tuning. Using ExposéMoi on some webpages and Wikipedia articles may interfere with the page's script, although it will not affect readability. 
+ExposéMoi's feature of counting sentences still requires fine-tuning. Using ExposéMoi on some webpages and Wikipedia articles may interfere with the page's script, although the extension will not affect the webpage's readability.
 
 
 ## Bibliography 
@@ -97,6 +94,7 @@ Further Reading:
 - McSweeney’s article https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar
 - Poems about police violence (https://policeviolence.files.wordpress.com/2010/11/poetryaboutpoliceviolencefinal.pdf)
 - Sidler, Michelle, Richard Morris, and Elizabeth Overman Smith. <i>Computers in the Composition Classroom: A Critical Sourcebook.</i>Bedford/St.Martin's, 2008.
+
 
 ## FAQ
 
