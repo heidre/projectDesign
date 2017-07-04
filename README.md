@@ -65,9 +65,9 @@ Tested on a Windows 10 Home operating system using the Google Chrome web browser
 
 ## Process Documentation: ExposéMoi in Action!
 
-Wikipedia's "English Passive Voice"(https://raw.githubusercontent.com/heidre/projectDesign/documentation/ExposeMoi.png)
+Wikipedia's "English Passive Voice" ![here](https://raw.githubusercontent.com/heidre/projectDesign/documentation/ExposeMoi.png)
 
-Wikipedia's "1967 Detroit Riot"(https://raw.githubusercontent.com/heidre/projectDesign/master/documentation/ExposeMoi2.png) 
+Wikipedia's "1967 Detroit Riot" ![here](https://raw.githubusercontent.com/heidre/projectDesign/master/documentation/ExposeMoi2.png) 
 
 ## Disclaimer
 
