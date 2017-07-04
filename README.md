@@ -39,9 +39,9 @@ Total file size is 8 KB.
 ## Instructions 
 <b>Installing</b>
 1. Dowload extension.zip to computer
-2. Open Google Chrome and go to chrome://extensions
-3.Toggle "Developer Mode" 
-4. Click "Load Unpacked Extension" and locate unzipped folder
+2. Open chrome://extensions in Google Chrome
+3. Toggle "Developer Mode" in top right of page
+4. Click "Load Unpacked Extension" and upload unzipped folder
 
 <br><b>Using ExposeMoi</b>
 1. Open a text-heavy page on the browser for best results.
