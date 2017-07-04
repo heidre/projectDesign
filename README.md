@@ -42,6 +42,7 @@ Total file size is 8 KB.
 2. Open Google Chrome and go to chrome://extensions
 3.Toggle "Developer Mode" 
 4. Click "Load Unpacked Extension" and locate unzipped folder
+
 <br><b>Using ExposeMoi</b>
 1. Open a text-heavy page on the browser for best results.
 2. Open the extension by clicking the pop-up on the top right-hand corner of the browser toolbar. 
