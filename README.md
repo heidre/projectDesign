@@ -87,6 +87,7 @@ Acknowledgements to the following:
 
 Special thanks to:
 - Norbert Rennert
+- Dr. Stephen Ross
 
 
 ## Jokes and Humour 
