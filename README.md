@@ -9,7 +9,9 @@ Project Link: https://github.com/heidre/projectDesign/
 
 ## What is ExposéMoi?
 
-ExposéMoi is a web browser plug-in that (1) scans through journal and news articles and websites, (2) identifies the uses of the passive voice, and (3) assesses how the passive voice correlates to a journal’s political alignment. The plug-in (4) produces a score of the frequency of passive voice at the sentence level. 
+ExposéMoi is a web browser plug-in that (1) scans through journal and news articles and websites, (2) identifies the uses of the passive voice, and (3) assesses how the passive voice correlates to a journal’s political alignment. The plug-in (4) produces a score of the frequency of passive voice at the sentence level.
+
+See our statement [here](https://github.com/heidre/projectDesign/blob/master/statements/index.md).
 
 
 ## Why use ExposéMoi?
