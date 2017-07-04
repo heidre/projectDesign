@@ -129,7 +129,7 @@ The extension's script is still not entirely compatible with all webpages, altho
 
 <b>ExposéMoi missed some words!</b>
 <br>
-ExposéMoi does not guarantee 100% accuracy in its results. The extension's algorithim uses the most common pattern of the passive construction (object + auxillary verb + past participle). Curretly, we found this to be the best algorithim for identifying most cases. The goal of ExposéMoi is to promote critical and active readers and serve as a starting point for more critical engagement and larger discussions.<br><br>
+ExposéMoi does not guarantee 100% accuracy in its results. The extension's algorithim uses the most common pattern of the passive construction (object + auxillary verb + past participle). Curretly, we found this to be the best algorithim for identifying most cases. The goal of ExposéMoi is to promote critical and active readers and serve as a starting point for larger discussions.<br><br>
 
 <b>Why can't ExposéMoi do ______?</b>
 <br>
