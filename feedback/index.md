@@ -1,12 +1,13 @@
-Here are some questions we asked our friends when we showed ExposéMoi to them:
+## Here are some questions we asked our friends when we showed ExposéMoi to them:
 
-1) What do you find useful about ExposeMoi / What do you think it can be used for?
+1) What do you find useful about ExposéMoi? / What do you think it can be used for?
 
 2) How does ExposéMoi affect the way you browse the internet?
 
 3) What changes would you like to see?
 
-<br><br><b>Selected Feedback:</b> <br><br>
+## Selected Feedback:
+
 - "The extension would be useful for editing group essays/assignments."
 
 - "I'd use it when reading the news."
