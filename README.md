@@ -80,7 +80,7 @@ We used ExposéMoi on Wikipedia's "1967 Detroit Riot" article ![here](https://ra
 <br>
 
 ## Disclaimer
-about use or context 
+ExposéMoi is made available for public use by the developers for educational purposes only, as well as to give general information and to promote a general understanding of the passive voice construction, and not for the purposes of discrediting anyone or making a political statement. By using this extension, you understand these aforementioned terms, and you should not use it in any way libelous or defamatory.
 
 <br>
 
