@@ -32,7 +32,7 @@ Notes on accessibility [here](https://github.com/heidre/projectDesign/blob/maste
 
 ## Files and Specifications 
 
-All relevant files for use are stored under the file name "extension.zip":
+All relevant files for use are stored under the file name "[extension.zip"](https://github.com/heidre/projectDesign/blob/master/extension.zip)":
 - icon.png
 - manifest.json
 - passive2.js
@@ -42,14 +42,18 @@ All relevant files for use are stored under the file name "extension.zip":
 
 Total file size is 8 KB.
 
+Notes on storage [here](https://github.com/heidre/projectDesign/blob/master/storage/index.md).
+
+Notes on metadata [here](https://github.com/heidre/projectDesign/blob/master/metadata/index.md).
+
 <br>
 
 ## Instructions 
 <b>Installing</b>
-1. Dowload extension.zip to computer
-2. Open chrome://extensions in Google Chrome
-3. Toggle "Developer Mode" in top right of page
-4. Click "Load Unpacked Extension" and upload unzipped folder
+1. Download [extension.zip](https://github.com/heidre/projectDesign/blob/master/extension.zip).
+2. Open chrome://extensions in Google Chrome.
+3. Toggle on "Developer Mode" on top right of page.
+4. Click "Load Unpacked Extension" and upload unzipped folder.
 
 <br><b>Using ExposéMoi</b>
 1. Open a text-heavy page on the browser for best results.
