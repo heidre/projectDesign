@@ -133,7 +133,7 @@ ExposéMoi does not guarantee 100% accuracy in its results. The extension's algo
 
 <b>Why can't ExposéMoi do ______?</b>
 <br>
-We designed ExposéMoi to be architecturally and functionally minimalist. This means that its few functions facilitate a greater amount of possibile outcomes and responses. Furthermore, ExposeMoi's concern with accessibility and transparency also informed its design. We welcome your feedback and suggestions!<br><br>
+We designed ExposéMoi to be architecturally and functionally minimalist. This means that its few functions facilitate a greater amount of possibile outcomes and responses. Furthermore, ExposéMoi's concern with accessibility and transparency also informed its design. We welcome your feedback and suggestions!<br><br>
 
 <b>Any further developments?</b>
 <br>
