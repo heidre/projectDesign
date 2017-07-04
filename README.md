@@ -34,19 +34,25 @@ All relevant files for use are stored under the file name "extension.zip":
 - score.js
 - styles.css
 
+Total file size is 8 KB.
 
 ## Instructions 
-
-1. Install the ExposéMoi extension through Google Chrome.
+<b>Installing</b>
+1. Dowload extension.zip to computer
+2. Open Google Chrome and go to chrome://extensions
+3. Toggle "Developer Mode" 
+4. Click "Load Unpacked Extension" and locate unzipped folder
+<br><br><b>Using ExposeMoi</b>
+1. Open a text-heavy page on the browser for best results.
 2. Open the extension by clicking the pop-up on the top right-hand corner of the browser toolbar. 
-3. Click the "ExposéMoi" button and wait for the page to load results. This button will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total."
-4. The extension will automatically output a percentage for passive occurrences per sencentence in the article. For example, seven instances within seven sentences will produce a 100% rating, and so forth.
-5. Finally, click "Tweet Score." This button will redirect you to a separate tab with a pre-generated tweet that lists the score and the URL of the page you have just rated. 
+3. Click the "ExposéMoi" button and wait for the page to load results. This action will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total."
+4. The extension will automatically output a percentage for passive occurrences per sencentence in the article. (i.e., seven instances within seven sentences will produce a 100% rating, etc)
+5. Finally, click "Tweet Score" to share score in a pre-generated tweet. This action will embedd the URL of the webpage with a score.
 
 A few notes:
-1. The extension will only work if the steps are followed in this given order.
+1. The extension will only work if the steps are followed in the listed order.
 2. As there is no "Reset" button, the page must be refreshed in order to begin again. 
-3. If the pop-up is closed before completing all the steps, re-opening it and continuing on to the next step will not work. You must refresh the page and begin from the first step again.
+3. If the pop-up is closed before completing all the steps, re-opening it and continuing to the next step will not work. You must refresh the page and begin from the first step again.
 
 
 ## Dependencies 
@@ -112,11 +118,11 @@ The extension's script is still not entirely compatible with all webpages, altho
 <br><br>
 <b>ExposéMoi missed some words!</b>
 <br><br>
-ExposéMoi does not guarantee 100% accuracy in its results. The extension's algorithim uses the most common pattern of the passive construction (object + auxillary verb + past participle). As yet, this is the best algorithim for identifying most cases. The goal of ExposéMoi is to promote critical and active readers; the extension should be a starting point for more critical engagement and larger discussions.
+ExposéMoi does not guarantee 100% accuracy in its results. The extension's algorithim uses the most common pattern of the passive construction (object + auxillary verb + past participle). Curretly, we found this to be the best algorithim for identifying most cases. The goal of ExposéMoi is to promote critical and active readers and serve as a starting point for more critical engagement and larger discussions.
 <br><br>
 <b>Why can't ExposéMoi do ___?</b>
 <br><br>
-We designed ExposéMoi to be architecturally and functionally minimalist. This means that ....
+We designed ExposéMoi to be architecturally and functionally minimalist. This means that its few functions facilitate a greater amount of possibile outcomes and responses. Furthermore, ExposeMoi's concern with accessibility and transparency also informed its design. We welcome your feedback and suggestions!
 
 
 ## Testimonials
