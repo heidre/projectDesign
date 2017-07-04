@@ -42,9 +42,7 @@ All relevant files for use are stored under the file name "[extension.zip"](http
 
 Total file size is 8 KB.
 
-Notes on storage [here](https://github.com/heidre/projectDesign/blob/master/storage/index.md).
-
-Notes on metadata [here](https://github.com/heidre/projectDesign/blob/master/metadata/index.md).
+Notes on storage [here](https://github.com/heidre/projectDesign/blob/master/storage/index.md) and on metadata [here](https://github.com/heidre/projectDesign/blob/master/metadata/index.md).
 
 <br>
 
@@ -63,9 +61,9 @@ Notes on metadata [here](https://github.com/heidre/projectDesign/blob/master/met
 5. Finally, click "Tweet Score" to share score in a pre-generated tweet. This action will embedd the URL of the webpage with a score.
 
 A few notes:
-1. The extension will only work if the steps are followed in the listed order.
-2. As there is no "Reset" button, the page must be refreshed in order to begin again. 
-3. If the pop-up is closed before completing all the steps, re-opening it and continuing to the next step will not work. You must refresh the page and begin from the first step again.
+* The extension will only work if the steps are followed in the listed order.
+* As there is no "Reset" button, the page must be refreshed in order to begin again. 
+* If the pop-up is closed before completing all the steps, re-opening it and continuing to the next step will not work. You must refresh the page and begin from the first step again.
 
 <br>
 
@@ -81,9 +79,9 @@ Tested on a Windows 10 Home operating system using the Google Chrome web browser
 
 See our design process [here](https://github.com/heidre/projectDesign/blob/master/discards/index.md).
 
-Wikipedia's "English Passive Voice" ![here](https://raw.githubusercontent.com/heidre/projectDesign/documentation/ExposeMoi.png).
+We used ExposéMoi on Wikipedia's "English Passive Voice" article ![here](https://raw.githubusercontent.com/heidre/projectDesign/documentation/ExposeMoi.png).
 
-Wikipedia's "1967 Detroit Riot" ![here](https://raw.githubusercontent.com/heidre/projectDesign/master/documentation/ExposeMoi2.png)
+We used ExposéMoi on Wikipedia's "1967 Detroit Riot" article ![here](https://raw.githubusercontent.com/heidre/projectDesign/master/documentation/ExposeMoi2.png)
 
 <br>
 
