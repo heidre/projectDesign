@@ -23,6 +23,8 @@ Recent media and news articles tend to use the passive voice to avoid blame or a
 
 While journalists, news readers, and the general public are our primary audience, our project could also be a pedagogical tool for use in teaching composition. Teachers could use this plugin as a tool to teach elements of clear and effective writing, rhetorical analysis, paraphrasing, summarizing, and revision.
 
+Notes on accessibility [here](https://github.com/heidre/projectDesign/blob/master/audience/index.md).
+
 
 ## Files and Specifications 
 
@@ -65,6 +67,8 @@ Tested on a Windows 10 Home operating system using the Google Chrome web browser
 
 ## Process Documentation: ExposéMoi in Action!
 
+See our design process [here](https://github.com/heidre/projectDesign/blob/master/discards/index.md).
+
 Wikipedia's "English Passive Voice" ![here](https://raw.githubusercontent.com/heidre/projectDesign/documentation/ExposeMoi.png)
 
 Wikipedia's "1967 Detroit Riot" ![here](https://raw.githubusercontent.com/heidre/projectDesign/master/documentation/ExposeMoi2.png) 
@@ -82,7 +86,7 @@ MIT and Creative Commons.
 ## Acknowledgments
 
 Acknowledgements to the following:
-- Chrome Developers for script resources on building chrome extensions
+- Google Chrome developers for script resources on building Google Chrome extensions
 - TwitterDev for script on embedding tweets
 
 Special thanks to:
