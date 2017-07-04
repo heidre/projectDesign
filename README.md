@@ -6,6 +6,7 @@ Contact: [hrennert@uvic.ca](mailto:hrennert@uvic.ca) and [rptan@uvic.ca](mailto:
 
 Project Link: https://github.com/heidre/projectDesign/
 
+<br>
 
 ## What is ExposéMoi?
 
@@ -13,11 +14,13 @@ ExposéMoi is a web browser plug-in that (1) scans through journal and news arti
 
 See our statement [here](https://github.com/heidre/projectDesign/blob/master/statements/index.md).
 
+<br>
 
 ## Why use ExposéMoi?
 
 Recent media and news articles tend to use the passive voice to avoid blame or allocate responsibility, hide the agent, tone down intensity, complicate readability, and add verbiage and jargon to mask or distort the meaning of the text. Ultimately, the use of the passive voice is a technique for wilfully concealing the truth.
 
+<br>
 
 ## Who is ExposéMoi for?
 
@@ -25,6 +28,7 @@ While journalists, news readers, and the general public are our primary audience
 
 Notes on accessibility [here](https://github.com/heidre/projectDesign/blob/master/audience/index.md).
 
+<br>
 
 ## Files and Specifications 
 
@@ -38,6 +42,8 @@ All relevant files for use are stored under the file name "extension.zip":
 
 Total file size is 8 KB.
 
+<br>
+
 ## Instructions 
 <b>Installing</b>
 1. Dowload extension.zip to computer
@@ -45,7 +51,7 @@ Total file size is 8 KB.
 3. Toggle "Developer Mode" in top right of page
 4. Click "Load Unpacked Extension" and upload unzipped folder
 
-<br><b>Using ExposeMoi</b>
+<br><b>Using ExposéMoi</b>
 1. Open a text-heavy page on the browser for best results.
 2. Open the extension by clicking the pop-up on the top right-hand corner of the browser toolbar. 
 3. Click the "ExposéMoi" button and wait for the page to load results. This action will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total."
@@ -57,6 +63,7 @@ A few notes:
 2. As there is no "Reset" button, the page must be refreshed in order to begin again. 
 3. If the pop-up is closed before completing all the steps, re-opening it and continuing to the next step will not work. You must refresh the page and begin from the first step again.
 
+<br>
 
 ## Dependencies 
 
@@ -64,24 +71,29 @@ The current version of ExposéMoi operates as a Google Chrome extension exclusiv
 
 Tested on a Windows 10 Home operating system using the Google Chrome web browser.
 
+<br>
 
 ## Process Documentation: ExposéMoi in Action!
 
 See our design process [here](https://github.com/heidre/projectDesign/blob/master/discards/index.md).
 
-Wikipedia's "English Passive Voice" ![here](https://raw.githubusercontent.com/heidre/projectDesign/documentation/ExposeMoi.png)
+Wikipedia's "English Passive Voice" ![here](https://raw.githubusercontent.com/heidre/projectDesign/documentation/ExposeMoi.png).
 
-Wikipedia's "1967 Detroit Riot" ![here](https://raw.githubusercontent.com/heidre/projectDesign/master/documentation/ExposeMoi2.png) 
+Wikipedia's "1967 Detroit Riot" ![here](https://raw.githubusercontent.com/heidre/projectDesign/master/documentation/ExposeMoi2.png)
+
+<br>
 
 ## Disclaimer
 
 about use or context 
 
+<br>
 
 ## License 
 
 MIT and Creative Commons.
 
+<br>
 
 ## Acknowledgments
 
@@ -93,15 +105,17 @@ Special thanks to:
 - Norbert Rennert
 - Dr. Stephen Ross
 
+<br>
 
 ## Jokes and Humour 
 
 ExposéMoi's feature of counting sentences still requires fine-tuning. Using ExposéMoi on some webpages and Wikipedia articles may interfere with the page's script, although the extension will not affect the page's overall readability.
 
+<br>
 
 ## Bibliography 
 
-Ditigal projcets that inspired our project:
+Ditigal projects that inspired our project:
 - [Jailbreak the Patriarchy](https://chrome.google.com/webstore/detail/jailbreak-the-patriarchy/fiidcfoaaciclafodoficaofidfencgd?hl=en-US&gl=US)
 - [HemingwayApp](http://www.hemingwayapp.com/)
 - [WebAIM: Accessibility in Mind](www.webaim.org)
@@ -111,6 +125,7 @@ Further Reading:
 - [Poems about police violence](https://policeviolence.files.wordpress.com/2010/11/poetryaboutpoliceviolencefinal.pdf)
 - Sidler, Michelle, Richard Morris, and Elizabeth Overman Smith. <i>Computers in the Composition Classroom: A Critical Sourcebook.</i> Bedford/St. Martin's, 2008.
 
+<br>
 
 ## FAQ
 
@@ -129,6 +144,7 @@ ExposéMoi does not guarantee 100% accuracy in its results. The extension's algo
 <br><br>
 We designed ExposéMoi to be architecturally and functionally minimalist. This means that its few functions facilitate a greater amount of possibile outcomes and responses. Furthermore, ExposeMoi's concern with accessibility and transparency also informed its design. We welcome your feedback and suggestions!
 
+<br>
 
 ## Testimonials
 
@@ -136,6 +152,7 @@ We designed ExposéMoi to be architecturally and functionally minimalist. This m
 
 More feedback [here](https://github.com/heidre/projectDesign/blob/master/feedback/index.md).
 
+<br>
 
 ## Change Log 
 
