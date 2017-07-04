@@ -69,6 +69,7 @@ We used ExposéMoi on Wikipedia's "English Passive Voice" article.
 
 ![ExposéMoi in Action!](https://github.com/heidre/projectDesign/documentation/ExposeMoi.png)
 
+ExposéMoi on Wikipedia's !["1967 Detroit Riots"](https://github.com/heidre/projectDesign/documentation/ExposeMoi2.png) 
 
 ## Disclaimer
 
