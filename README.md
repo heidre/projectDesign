@@ -42,7 +42,7 @@ Total file size is 8 KB.
 2. Open Google Chrome and go to chrome://extensions
 3. Toggle "Developer Mode" 
 4. Click "Load Unpacked Extension" and locate unzipped folder
-<br><br><b>Using ExposeMoi</b>
+<b>Using ExposeMoi</b>
 1. Open a text-heavy page on the browser for best results.
 2. Open the extension by clicking the pop-up on the top right-hand corner of the browser toolbar. 
 3. Click the "ExposéMoi" button and wait for the page to load results. This action will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total."
@@ -91,7 +91,7 @@ Special thanks to:
 
 ## Jokes and Humour 
 
-ExposéMoi's feature of counting sentences still requires fine-tuning. Using ExposéMoi on some webpages and Wikipedia articles may interfere with the page's script, although the extension will not affect the webpage's readability.
+ExposéMoi's feature of counting sentences still requires fine-tuning. Using ExposéMoi on some webpages and Wikipedia articles may interfere with the page's script, although the extension will not affect the page's overall readability.
 
 
 ## Bibliography 
