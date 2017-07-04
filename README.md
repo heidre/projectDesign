@@ -115,6 +115,13 @@ ExposéMoi does not guarantee 100% accuracy in its results. The extension's algo
 We designed ExposéMoi to be architecturally and functionally minimalist. This means that ....
 
 
+## Testimonials
+
+"I immediately thought that I could use this as a teaching tool when teaching composition." -Lindsey S., PhD candidate
+
+More feedback [here](https://github.com/heidre/projectDesign/blob/master/feedback/index.md).
+
+
 ## Change Log 
 
 Version 1.0 - Added the highlight passive construction feature.
