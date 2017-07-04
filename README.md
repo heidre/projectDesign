@@ -54,7 +54,7 @@ Tested on a Windows 10 Home operating system using the Google Chrome web browser
 
 ## Process Documentation: ExposéMoi in Action!
 
-We ran our plugin on Wikipedia's "English Passive Voice" article.
+We used ExposéMoi on Wikipedia's "English Passive Voice" article.
 
 ![ExposéMoi in Action!](https://github.com/heidre/projectDesign/documentation/ExposeMoi.png)
 
@@ -75,7 +75,7 @@ Acknowledgements to the following:
 - Chrome Developers for script resources on building chrome extensions
 - TwitterDev for script on embedding tweets
 
-Special Thanks to:
+Special thanks to:
 - Norbert Rennert
 
 
@@ -126,3 +126,5 @@ Version 1.2 - Added the "Tweet Score" feature.
 Version 1.3 - Combined the higlighting with the counting feature.
 
 Version 1.4 - Changed the style of the interface's layout.
+
+Version 1.5 - Changed the ExposéMoi icon.
