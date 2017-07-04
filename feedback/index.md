@@ -14,8 +14,6 @@
 
 - "I'd use it when reading the news."
 
-- "I'd like to see an explanation in the artist statement about what the use of passive voice means."
-
 - "ExposéMoi makes the process of analysing a text for passive constructions much, much easier and faster."
 
 - "ExposéMoi is unobtrusive but available whenever I need it."
