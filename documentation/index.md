@@ -1,9 +1,9 @@
-Examples of your work in progress
-* Notes for future audiences
-* Screen grabs
-* Photographs
-* Annotations
-* Twitter metrics
+## This section includes examples of our work in progress
+Screen grabs:
+* ExposeMoi.png
+* ExposeMoi2.png
 
-In short, the labour of how yoru project goes from this to that
-Preserves how people interact with the work
+## You, the user
+We'd like to hear what you think about our extension!
+
+Please send us your comments or feedback at [hrennert@uvic.ca](mailto:hrennert@uvic.ca) or [rptan@uvic.ca](mailto:rptan@uvic.ca).
