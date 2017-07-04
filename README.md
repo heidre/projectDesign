@@ -40,9 +40,9 @@ Total file size is 8 KB.
 <b>Installing</b>
 1. Dowload extension.zip to computer
 2. Open Google Chrome and go to chrome://extensions
-3. Toggle "Developer Mode" 
+3.Toggle "Developer Mode" 
 4. Click "Load Unpacked Extension" and locate unzipped folder
-<b>Using ExposeMoi</b>
+<br><b>Using ExposeMoi</b>
 1. Open a text-heavy page on the browser for best results.
 2. Open the extension by clicking the pop-up on the top right-hand corner of the browser toolbar. 
 3. Click the "ExposéMoi" button and wait for the page to load results. This action will highlight the passive phrases in the webpage and list the total instances in the pop-up menu after "total."
