@@ -7,6 +7,7 @@
 3) What changes would you like to see?
 
 <br>
+
 ## Selected Feedback:
 
 - "The extension would be useful for editing group essays/assignments."
