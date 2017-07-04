@@ -87,13 +87,13 @@ ExposéMoi's feature of counting sentences still requires fine-tuning. Using Exp
 ## Bibliography 
 
 Ditigal projcets that inspired our project:
-- Jailbreak the Patriarchy (https://chrome.google.com/webstore/detail/jailbreak-the-patriarchy/fiidcfoaaciclafodoficaofidfencgd?hl=en-US&gl=US)
-- HemingwayApp (http://www.hemingwayapp.com/)
-- WebAIM: Accessibility in Mind (www.webaim.org)
+- [Jailbreak the Patriarchy](https://chrome.google.com/webstore/detail/jailbreak-the-patriarchy/fiidcfoaaciclafodoficaofidfencgd?hl=en-US&gl=US)
+- [HemingwayApp](http://www.hemingwayapp.com/)
+- [WebAIM: Accessibility in Mind](www.webaim.org)
 
 Further Reading:
-- McSweeney’s article https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar
-- Poems about police violence (https://policeviolence.files.wordpress.com/2010/11/poetryaboutpoliceviolencefinal.pdf)
+- [McSweeney’s article](https://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar)
+- [Poems about police violence](https://policeviolence.files.wordpress.com/2010/11/poetryaboutpoliceviolencefinal.pdf)
 - Sidler, Michelle, Richard Morris, and Elizabeth Overman Smith. <i>Computers in the Composition Classroom: A Critical Sourcebook.</i>Bedford/St.Martin's, 2008.
 
 
