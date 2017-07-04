@@ -1,2 +1,0 @@
-- Heidi Rennert: hrennert@uvic.ca
-- Rachelle Ann Tan: rptan@uvic.ca
